@@ -1,0 +1,25 @@
+{
+  "name": "prometheus",
+  "version": "0.0.0",
+  "description": "backend for online education tracking, both the development thereof and production environments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Established-1907/prometheus.git"
+  },
+  "keywords": [
+    "api",
+    "fasify",
+    "mongodb",
+    "swagger"
+  ],
+  "author": "Anthony Jackman <anthony.jackman@serco-na.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/Established-1907/prometheus/issues"
+  },
+  "homepage": "https://github.com/Established-1907/prometheus#readme"
+}
