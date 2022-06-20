@@ -92,4 +92,7 @@ admin_docs
 # Vagrant operating
 .vagrant
 
+# Snyk caches
+.dccache
+
 # End of https://www.toptal.com/developers/gitignore/api/node
